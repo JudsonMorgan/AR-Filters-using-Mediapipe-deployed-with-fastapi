@@ -8,9 +8,9 @@ Using mediapipe to create AR filters that could be overlayed on a person's face
 * Uvicorn
 * Mediapipe
 * Opencv
-* Make Sense
+* Make Sense ai
 
 ### ⚙️ **Execute:**
 * Run `pip install -r requirements.txt` to install required packages.
 * Run `uvicorn server:app --reload` to run the local webapp!
-* use `CTRL-C` to termite server
+* use `CTRL-C` to terminate server
